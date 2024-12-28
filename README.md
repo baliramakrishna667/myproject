@@ -1,2 +1,1 @@
-hellow world
-To keep the repo from getting overly complicated, you can delete the now unused branch by clicking "Delete branch".
+After resolving the conflicts and committing the merge, you can now push your changes to the remote repository:
